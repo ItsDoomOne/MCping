@@ -1,0 +1,1 @@
+I haven't started coding yet. I'm still researching how the MC Java server shares the server info. Apparently its via something called 'Server List Ping' (source: https://minecraft.wiki/w/Java_Edition_protocol/Server_List_Ping)
